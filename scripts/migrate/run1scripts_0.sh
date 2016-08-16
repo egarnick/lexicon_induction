@@ -1,0 +1,1 @@
+bash /homes/egarnick/scripts/migrate/establish_scratch_0.sh 220b0; bash /homes/egarnick/scripts/migrate/home2scratch_0.sh 0 220b0 inputs-comp_vectors_m; bash /homes/egarnick/scripts/morfed/compare_vectors_m_0.sh 220b0 0; bash /homes/egarnick/scripts/migrate/scratch2home_0.sh 220b0 translations

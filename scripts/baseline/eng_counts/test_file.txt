@@ -1,0 +1,27 @@
+<DOC id="WPB_ENG_20100101.0002" type="story">
+<HEADLINE>
+Erectile Dysfunction Linked to Sleep Disorder
+</HEADLINE>
+<DATELINE>
+By Simeon Bennett
+LA TIMES-WASHINGTON POST--01-01-10 1103ET
+</DATELINE>
+<TEXT>
+<P>
+</P>
+</TEXT>
+</DOC>
+<DOC id="WPB_ENG_20100101.0001" type="story">
+<HEADLINE>
+Erectile Dysfunction Linked to Sleep Disorder
+</HEADLINE>
+<DATELINE>
+By Simeon Bennett
+LA TIMES-WASHINGTON POST--01-01-10 1103ET
+</DATELINE>
+<TEXT>
+<P>
+The cat sees another cat.  My dog and your cat are in the house at 3.
+</P>
+</TEXT>
+</DOC>
